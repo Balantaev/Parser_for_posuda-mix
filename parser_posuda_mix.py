@@ -3,7 +3,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 import csv
-
+#test
 DOMAIN = "http://posuda-mix.ru"
 CATEGORY_URL = "https://www.klenmarket.ru/shop/inventory/kitchen-equipment/pans-cauldrons-saji/aluminum-pans/"
 
